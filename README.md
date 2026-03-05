@@ -1,0 +1,2 @@
+# NexoraX
+SCRIPT
